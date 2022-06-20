@@ -1,0 +1,14 @@
+.sad,
+.happy {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.sad {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.happy {
+    background-color: #ffff00;
+}
