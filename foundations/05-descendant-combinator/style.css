@@ -1,0 +1,14 @@
+.container .text {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* i can use more combinations but its the most specified
+
+    .container p
+    div p
+    div .text
+
+*/
